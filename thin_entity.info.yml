@@ -1,0 +1,4 @@
+name: Thin Entity
+type: module
+description: 'Provides a lightweight entity reader'
+core: 8.x
